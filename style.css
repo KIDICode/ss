@@ -12,7 +12,11 @@ body {
     margin: auto;
 }
 
-h1, h2 {
+h1 {
+    color: dark;
+}
+
+h2 {
     color: #2c3e50;
 }
 
